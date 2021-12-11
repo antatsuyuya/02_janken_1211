@@ -1,0 +1,66 @@
+/* ここから下に記載していく */
+
+/* id記載 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
+
+#wrap {
+    margin:0 auto;
+    width: 1200px;
+    }
+
+
+
+
+
+/* 上id記載ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー */
+
+/* 段落1 */ 
+
+body{
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 100px;
+}
+h3{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 100px;
+}
+
+.pg2{
+    width: 1200px;
+    height: 500px;
+    position: relative;
+}
+
+.img-wrap1 img {
+    width:100%;
+    position: absolute;    
+    right: 200px;
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+}
+
+
+.img-wrap2 img {
+    width:100%;
+    position: absolute;    
+    left: 200px;
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+}
+
+.pg3 img{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin-top: 100px;
+}
+
